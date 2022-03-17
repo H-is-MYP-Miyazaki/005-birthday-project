@@ -1,3 +1,10 @@
 body{
   background-color: rgba(121, 217, 226, 0.822);
+  background-image:url(bg-better.png);
+  background-size: 300px;
+}
+
+
+.present-img{
+  width: 300px;
 }
